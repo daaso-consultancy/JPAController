@@ -1,8 +1,8 @@
 # JPAController
 Revamping an old JPAController template for everyone to use
 
-# Java 8+ Version
-If you would like the Java 7 compatible version or just don't like working with Optional class please check [java7 branch](https://github.com/daaso-consultancy/ConciseXMLParser/tree/java7 'java7 branch').
+# Compatibility
+Requires java 8 or higher. Compiled with jdk 1.8.0_121
 
 # Include Dependency using Maven
     <dependency>
